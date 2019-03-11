@@ -1,0 +1,9 @@
+C:\Users\de3014415\Desktop\projects\mssc\src\commons\bin\Debug\netstandard2.0\commons.deps.json
+C:\Users\de3014415\Desktop\projects\mssc\src\commons\bin\Debug\netstandard2.0\commons.dll
+C:\Users\de3014415\Desktop\projects\mssc\src\commons\bin\Debug\netstandard2.0\commons.pdb
+C:\Users\de3014415\Desktop\projects\mssc\src\commons\obj\Debug\netstandard2.0\commons.csprojAssemblyReference.cache
+C:\Users\de3014415\Desktop\projects\mssc\src\commons\obj\Debug\netstandard2.0\commons.csproj.CoreCompileInputs.cache
+C:\Users\de3014415\Desktop\projects\mssc\src\commons\obj\Debug\netstandard2.0\commons.AssemblyInfoInputs.cache
+C:\Users\de3014415\Desktop\projects\mssc\src\commons\obj\Debug\netstandard2.0\commons.AssemblyInfo.cs
+C:\Users\de3014415\Desktop\projects\mssc\src\commons\obj\Debug\netstandard2.0\commons.dll
+C:\Users\de3014415\Desktop\projects\mssc\src\commons\obj\Debug\netstandard2.0\commons.pdb

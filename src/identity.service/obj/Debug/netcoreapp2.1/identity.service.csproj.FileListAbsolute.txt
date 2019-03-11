@@ -1,0 +1,17 @@
+C:\Users\de3014415\Desktop\projects\mssc\src\identity.service\bin\Debug\netcoreapp2.1\identity.service.deps.json
+C:\Users\de3014415\Desktop\projects\mssc\src\identity.service\bin\Debug\netcoreapp2.1\identity.service.runtimeconfig.json
+C:\Users\de3014415\Desktop\projects\mssc\src\identity.service\bin\Debug\netcoreapp2.1\identity.service.runtimeconfig.dev.json
+C:\Users\de3014415\Desktop\projects\mssc\src\identity.service\bin\Debug\netcoreapp2.1\identity.service.dll
+C:\Users\de3014415\Desktop\projects\mssc\src\identity.service\bin\Debug\netcoreapp2.1\identity.service.pdb
+C:\Users\de3014415\Desktop\projects\mssc\src\identity.service\bin\Debug\netcoreapp2.1\commons.dll
+C:\Users\de3014415\Desktop\projects\mssc\src\identity.service\bin\Debug\netcoreapp2.1\commons.pdb
+C:\Users\de3014415\Desktop\projects\mssc\src\identity.service\obj\Debug\netcoreapp2.1\identity.service.csprojAssemblyReference.cache
+C:\Users\de3014415\Desktop\projects\mssc\src\identity.service\obj\Debug\netcoreapp2.1\identity.service.csproj.CoreCompileInputs.cache
+C:\Users\de3014415\Desktop\projects\mssc\src\identity.service\obj\Debug\netcoreapp2.1\identity.service.RazorAssemblyInfo.cache
+C:\Users\de3014415\Desktop\projects\mssc\src\identity.service\obj\Debug\netcoreapp2.1\identity.service.RazorAssemblyInfo.cs
+C:\Users\de3014415\Desktop\projects\mssc\src\identity.service\obj\Debug\netcoreapp2.1\identity.service.AssemblyInfoInputs.cache
+C:\Users\de3014415\Desktop\projects\mssc\src\identity.service\obj\Debug\netcoreapp2.1\identity.service.AssemblyInfo.cs
+C:\Users\de3014415\Desktop\projects\mssc\src\identity.service\obj\Debug\netcoreapp2.1\identity.service.RazorTargetAssemblyInfo.cache
+C:\Users\de3014415\Desktop\projects\mssc\src\identity.service\obj\Debug\netcoreapp2.1\identity.service.csproj.CopyComplete
+C:\Users\de3014415\Desktop\projects\mssc\src\identity.service\obj\Debug\netcoreapp2.1\identity.service.dll
+C:\Users\de3014415\Desktop\projects\mssc\src\identity.service\obj\Debug\netcoreapp2.1\identity.service.pdb

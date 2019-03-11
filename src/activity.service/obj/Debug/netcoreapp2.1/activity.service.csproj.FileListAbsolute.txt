@@ -1,0 +1,17 @@
+C:\Users\de3014415\Desktop\projects\mssc\src\activity.service\bin\Debug\netcoreapp2.1\activity.service.deps.json
+C:\Users\de3014415\Desktop\projects\mssc\src\activity.service\bin\Debug\netcoreapp2.1\activity.service.runtimeconfig.json
+C:\Users\de3014415\Desktop\projects\mssc\src\activity.service\bin\Debug\netcoreapp2.1\activity.service.runtimeconfig.dev.json
+C:\Users\de3014415\Desktop\projects\mssc\src\activity.service\bin\Debug\netcoreapp2.1\activity.service.dll
+C:\Users\de3014415\Desktop\projects\mssc\src\activity.service\bin\Debug\netcoreapp2.1\activity.service.pdb
+C:\Users\de3014415\Desktop\projects\mssc\src\activity.service\bin\Debug\netcoreapp2.1\commons.dll
+C:\Users\de3014415\Desktop\projects\mssc\src\activity.service\bin\Debug\netcoreapp2.1\commons.pdb
+C:\Users\de3014415\Desktop\projects\mssc\src\activity.service\obj\Debug\netcoreapp2.1\activity.service.csprojAssemblyReference.cache
+C:\Users\de3014415\Desktop\projects\mssc\src\activity.service\obj\Debug\netcoreapp2.1\activity.service.csproj.CoreCompileInputs.cache
+C:\Users\de3014415\Desktop\projects\mssc\src\activity.service\obj\Debug\netcoreapp2.1\activity.service.RazorAssemblyInfo.cache
+C:\Users\de3014415\Desktop\projects\mssc\src\activity.service\obj\Debug\netcoreapp2.1\activity.service.RazorAssemblyInfo.cs
+C:\Users\de3014415\Desktop\projects\mssc\src\activity.service\obj\Debug\netcoreapp2.1\activity.service.AssemblyInfoInputs.cache
+C:\Users\de3014415\Desktop\projects\mssc\src\activity.service\obj\Debug\netcoreapp2.1\activity.service.AssemblyInfo.cs
+C:\Users\de3014415\Desktop\projects\mssc\src\activity.service\obj\Debug\netcoreapp2.1\activity.service.RazorTargetAssemblyInfo.cache
+C:\Users\de3014415\Desktop\projects\mssc\src\activity.service\obj\Debug\netcoreapp2.1\activity.service.csproj.CopyComplete
+C:\Users\de3014415\Desktop\projects\mssc\src\activity.service\obj\Debug\netcoreapp2.1\activity.service.dll
+C:\Users\de3014415\Desktop\projects\mssc\src\activity.service\obj\Debug\netcoreapp2.1\activity.service.pdb

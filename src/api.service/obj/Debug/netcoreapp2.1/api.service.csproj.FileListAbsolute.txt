@@ -1,0 +1,17 @@
+C:\Users\de3014415\Desktop\projects\mssc\src\api.service\bin\Debug\netcoreapp2.1\api.service.deps.json
+C:\Users\de3014415\Desktop\projects\mssc\src\api.service\bin\Debug\netcoreapp2.1\api.service.runtimeconfig.json
+C:\Users\de3014415\Desktop\projects\mssc\src\api.service\bin\Debug\netcoreapp2.1\api.service.runtimeconfig.dev.json
+C:\Users\de3014415\Desktop\projects\mssc\src\api.service\bin\Debug\netcoreapp2.1\api.service.dll
+C:\Users\de3014415\Desktop\projects\mssc\src\api.service\bin\Debug\netcoreapp2.1\api.service.pdb
+C:\Users\de3014415\Desktop\projects\mssc\src\api.service\bin\Debug\netcoreapp2.1\commons.dll
+C:\Users\de3014415\Desktop\projects\mssc\src\api.service\bin\Debug\netcoreapp2.1\commons.pdb
+C:\Users\de3014415\Desktop\projects\mssc\src\api.service\obj\Debug\netcoreapp2.1\api.service.csprojAssemblyReference.cache
+C:\Users\de3014415\Desktop\projects\mssc\src\api.service\obj\Debug\netcoreapp2.1\api.service.csproj.CoreCompileInputs.cache
+C:\Users\de3014415\Desktop\projects\mssc\src\api.service\obj\Debug\netcoreapp2.1\api.service.RazorAssemblyInfo.cache
+C:\Users\de3014415\Desktop\projects\mssc\src\api.service\obj\Debug\netcoreapp2.1\api.service.RazorAssemblyInfo.cs
+C:\Users\de3014415\Desktop\projects\mssc\src\api.service\obj\Debug\netcoreapp2.1\api.service.AssemblyInfoInputs.cache
+C:\Users\de3014415\Desktop\projects\mssc\src\api.service\obj\Debug\netcoreapp2.1\api.service.AssemblyInfo.cs
+C:\Users\de3014415\Desktop\projects\mssc\src\api.service\obj\Debug\netcoreapp2.1\api.service.RazorTargetAssemblyInfo.cache
+C:\Users\de3014415\Desktop\projects\mssc\src\api.service\obj\Debug\netcoreapp2.1\api.service.csproj.CopyComplete
+C:\Users\de3014415\Desktop\projects\mssc\src\api.service\obj\Debug\netcoreapp2.1\api.service.dll
+C:\Users\de3014415\Desktop\projects\mssc\src\api.service\obj\Debug\netcoreapp2.1\api.service.pdb
