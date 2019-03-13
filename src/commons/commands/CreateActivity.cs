@@ -1,3 +1,4 @@
+using System; 
 namespace commons.commands
 {
     public class CreateActivity : IAuthenticatedCommand
